@@ -1,2 +1,2 @@
 # android-kotlin-objectbox-crud
-Sample Android CRUD with Objectbox write in Kotlin
+Sample Android CRUD with Objectbox and write in Kotlin
